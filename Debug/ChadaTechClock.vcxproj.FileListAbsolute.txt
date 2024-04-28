@@ -1,0 +1,2 @@
+U:\ChadaTech\ChadaTechClock\Debug\ChadaTechClock.exe
+U:\ChadaTech\ChadaTechClock\Debug\ChadaTechClock.pdb

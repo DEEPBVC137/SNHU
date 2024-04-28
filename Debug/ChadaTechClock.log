@@ -1,0 +1,4 @@
+﻿  Clock.cpp
+U:\ChadaTech\ChadaTechClock\Clock.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+U:\ChadaTech\ChadaTechClock\Clock.cpp(45,23): warning C4018: '<': signed/unsigned mismatch
+  ChadaTechClock.vcxproj -> U:\ChadaTech\ChadaTechClock\Debug\ChadaTechClock.exe
